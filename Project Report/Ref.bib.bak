@@ -1,0 +1,52 @@
+% This file was created with JabRef 2.7.
+% Encoding: Cp1252
+
+@BOOK{burke2003practice,
+  title = {Practice and Theory of Automated Timetabling III: Third International
+	Conference, PATAT 2000 Konstanz, Germany, August 16-18, 2000 Selected
+	Papers},
+  publisher = {Springer},
+  year = {2003},
+  author = {Burke, Edmund and Erben, Wilhelm},
+  volume = {2079}
+}
+
+@ARTICLE{hedberg1992educational,
+  author = {Hedberg, John and Harper, Barry and Bloch, Deborah},
+  title = {Educational information systems: Problems of the small educational
+	organisation},
+  journal = {Australasian Journal of Educational Technology},
+  year = {1992},
+  volume = {8},
+  number = {2}
+}
+
+@ARTICLE{marte2002models,
+  author = {Marte, Michael},
+  title = {Models and algorithms for school timetabling--A constraint-programming
+	approach},
+  journal = {der Fakultat fur Mathematik, Informatik und Statistik},
+  year = {2002}
+}
+
+@ARTICLE{samaan2017design,
+  author = {Samaan, Sama Salam},
+  title = {Design and Implementation of a Pharmaceutical Inventory Database
+	Management System},
+  journal = {Al-Khwarizmi Engineering Journal},
+  year = {2017},
+  volume = {13},
+  pages = {118--128},
+  number = {1}
+}
+
+@comment{jabref-meta: selector_keywords:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_review:}
+

@@ -1,0 +1,29 @@
+
+\newpage{}
+
+\begin{abstract}
+ \noindent Electronic metering (E-metering) technology has made rapid advancements in technology and a reliable and efficient Automatic Meter Reading (AMR) system's demands increased. This report presents the design of a low-cost wireless GPRS energy meter and its associated web interface to automate billing and manage collected data globally. The proposed system replaces additional meter reading procedures and allows remote access to the existing energy meter by the energy supplier. In addition, they can regularly monitor meter readings without the person visiting each home.\\\\
+ A GPRS-based wireless communication module is integrated into each unit's electronic energy meter for remote access to energy consumption. A PC with a GPRS receiver at the other end, containing the database, serves as the accounting center. The live reading from the GPRS-enabled energy meter is regularly sent to this billing center and these details are updated in a central database. A new interactive and easy-to-use graphical user interface was developed using Microsoft Visual Studio .NET Framework and C-Hash. With correct authentication, users can access the details of the developed web page from anywhere in the world.\\\\
+ The full monthly usage and the overdue invoice will be reported to the customer after this data has been processed. Building practices, weather, ,and information needs are driving public services in different parts of the world towards antimicrobial resistance at different rates. In the United States, there have been 4,444 major landline phone implementations of RF and PLC-based technologies. Some countries have implemented or plan to implement AMR systems nationwide. We will design an automatic reader with low occupancy and will try to create a Micro Controller that can be inserted into the manual meter readers so that they can also be automatic.\\\\
+ A method by which the electricity meter
+  can be read based on a computational perspective is proposed, and the architecture
+ of the automatic remote meter reading system is designed. Unlike the
+ with the normal automatic meter reading system, which must  obtain the value of
+ from the digital communication interface, the  new method
+ detects the meter reading using
+  computer vision technology.
+ Automatic reading of the accountant, the discrimination of
+ computer vision takes into account the human capacity of
+ visual and anxious models. Not only
+ the digital display power meter can  be read, but also
+ the direct reading instruments can be read too.\\
+
+%\vspace{0.89mm}
+%
+%\begin{equation}
+%stackrel[u]{v}{T}=\stackrel[u]{v}{L}+\stackrel[u]{v}{L}\underset{W\epsilon V\cap w\neq u}{\sum}\stackrel[v]{w}{L}
+%\end{equation}
+
+%\pagenumbering{roman}% added the roman page number in the starting pages
+\thispagestyle{empty}% to remove the page number
+\end{abstract}

@@ -1,0 +1,53 @@
+
+\begin{titlepage}
+\begin{center}
+
+
+\includegraphics[width=0.35\textwidth]{./logo}~\\[1.5cm]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Title  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{ \huge \bfseries School Management System} \\[1.4cm]
+
+{ \large \bfseries Submitted by:} \\[0.2cm]
+
+{ \large \bfseries Muhammad Kaleem Ullah}  \\[0.1cm]
+{ \small FA19-BCE-007} \\[0.2cm]
+{ \large \bfseries Hamza Umar}  \\[0.1cm]
+{ \small FA19-BCE-026} \\[0.6cm]
+
+%{ \small \bfseries Usman} \\[0.2cm]
+%{ \small \bfseries Kashif} \\[0.2cm]
+
+
+{ \small \bfseries Subject: Database Systems I (CSC371)} \\[0.2cm]
+%{ \small \bfseries Enrollment Number: 1234} \\[1.0cm]
+{ \small \bfseries Program: BS in Computer Engineering} \\[0.6cm]
+%{ \small \bfseries Enrollment Number: 1234} \\[1.0cm]
+
+
+{ \large \bfseries Course Instructor:} \\[0.1cm]
+{ \small \bfseries Miss Aqsa Hameed} \\[0.2cm]
+
+
+{ \large \bfseries Lab Instructor:} \\[0.1cm]
+{ \small \bfseries Engr. Ayesha Sadiq} \\[0.8cm]
+%{ \large \bfseries Assistant Professor} \\[0.9cm]
+%{ \large \bfseries Department of Electrical Engineering} \\[0.3cm]
+
+\vfill
+
+
+
+
+{ \large \bfseries Department of Electrical and Computer Engineering} \\[0.2cm]
+{ \large \bfseries COMSATS University Islamabad, Attock Campus, Pakistan.} \\[0.2cm]
+
+
+% Bottom of the page
+%{\large \today}   % Date
+
+\thispagestyle{empty}
+\end{center}
+\end{titlepage}
+

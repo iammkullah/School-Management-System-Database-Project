@@ -1,0 +1,22 @@
+% Thesis Declaration ---------------------------------------------------
+
+%\begin{Declaration} %this creates the heading for the dedication page
+
+\begin{titlepage}
+
+%\noindent {\Large \textbf{Dedication}} \\
+
+  \vspace*{7cm}
+We, Hamza Umar and Muhammad Kaleem Ullah, hereby declare that this Project report entitled “School Management
+System ” submitted to COMSATS University Islamabad, Attock Campus , is a
+record of an original work done by us under the guidance of our course intructor MADAM
+AQSA HAMEED and the Lab Instructor MAM AYESHA SADIQ.
+\end{titlepage}
+%\end{dedication}
+
+% ----------------------------------------------------------------------
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "../thesis"
+%%% End:
